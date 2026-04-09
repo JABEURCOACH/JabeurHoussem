@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jabeurcoach.github.io/JabeurHoussem/sitemap.xml
